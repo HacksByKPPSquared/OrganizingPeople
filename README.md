@@ -36,4 +36,4 @@ A well-organized system is key to efficiency and productivity. No more endless s
 ---
 
 Ready to take your digital organization skills to the next level? Let's organize all the things! 📂💡
-## 👉🏾 [Lab Walkthrough]()
+## 👉🏾 [Lab Walkthrough](https://github.com/Kpierre03/OrganizingPeople/blob/main/Organize.md)
