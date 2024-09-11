@@ -1,4 +1,4 @@
-Lab 02: Organizing People and Resources
+# Organizing People and Resources
 
 Section 1, Step 8b - showing devel project in the Horizon Dashboard.
 
@@ -77,5 +77,3 @@ style="width:4.11624in;height:2.19269in" />
 Section 8, Step 5d - showing the new quota values for the test1 project.
 
 <img src="./media/image15.png" style="width:6.5in;height:3.55486in" />
-
-Submit your Lab file in Ivy Learn for the assignment.
